@@ -1,5 +1,6 @@
-**AWS Lambda Retry and Dead Letter Queue Handling**
-Overview
+# AWS Lambda Retry and Dead Letter Queue Handling
+
+
 This AWS Lambda function is designed to process events, with a specific focus on handling retries and utilizing a Dead Letter Queue (DLQ) for failed events. The function interacts with Amazon Simple Queue Service (SQS) for event processing.
 
 Lambda Function Structure
