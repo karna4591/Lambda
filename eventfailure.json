@@ -1,0 +1,14 @@
+{
+  
+  "detail-type": "NormalEvent",
+  "source": "custom.events",
+  "detail": {
+    "source": "custom.events",
+    "detail-type": "NormalEvent",
+    "detail": {
+      "retry_count": 0,
+      "receipt_handle": "test1",
+      "successType": "your_success_type"
+    }
+  }
+}
